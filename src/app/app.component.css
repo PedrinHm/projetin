@@ -1,0 +1,16 @@
+img{
+    width: 100%;
+    border: 3px solid rgb(253, 17, 0);
+
+}
+
+.imagem{
+    width: 293px;
+}
+
+.foto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
